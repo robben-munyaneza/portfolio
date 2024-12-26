@@ -3,9 +3,10 @@ import React from 'react'
 function App() {
   return (
     <div>
-      hello word
+      App
     </div>
   )
 }
+
 
 export default App
